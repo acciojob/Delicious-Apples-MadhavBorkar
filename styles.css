@@ -1,1 +1,15 @@
-/* your code here */
+.main{
+	background-color:#18C454;
+	display:flex;
+	position:relative;
+	width:100%;
+}
+.product{
+	display:flex;
+	position:relative;
+	background-color:white;
+	margin:100px;		
+}
+.photo-main{
+	
+}
